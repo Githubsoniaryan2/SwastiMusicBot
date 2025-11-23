@@ -31,7 +31,7 @@ LOG = int(getenv("LOG", True))
 
 API_URL = getenv("API_URL", 'https://teaminflex.xyz')
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'INFLEX93454428D')
+API_KEY = getenv("API_KEY", 'INFLEX96210728D')
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
